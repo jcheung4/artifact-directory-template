@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Enhancing Utility Pole Monitoring with Computer Vision
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In the face of climate change, the accurate and consistent monitoring of utility poles is becoming more important for preventing wildfires and ensuring community safety. Traditional methods for maintaining utility pole databases are fraught with challenges, including data incompleteness and the labor-intensive nature of manual updates. Previous approaches have struggled to efficiently update and verify the accuracy of these databases, leaving a significant gap in utility risk management practices. Our project addresses this gap by developing an automated tool that leverages Google Street View images and advanced computer vision techniques to identify and analyze utility poles. By inputting geographical coordinates, our system captures images along specified roads, detecting each pole's material type. This automation significantly reduces human error and labor, offering a scalable solution to improve the accuracy and completeness of utility pole records. Our method introduces a novel approach to utility infrastructure monitoring, promising enhancements in reliability, safety, and responsiveness to environmental risks.
